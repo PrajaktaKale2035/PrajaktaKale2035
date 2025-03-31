@@ -8,7 +8,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="[https://linkedin.com/in/www.linkedin.com/in/prajaktakaleプラジャクタカレ](https://www.linkedin.com/in/prajaktakale%E3%83%97%E3%83%A9%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BF%E3%82%AB%E3%83%AC/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/prajaktakaleプラジャクタカレ](https://www.linkedin.com/in/prajaktakale%E3%83%97%E3%83%A9%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BF%E3%82%AB%E3%83%AC/)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prajaktakale%E3%83%97%E3%83%A9%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BF%E3%82%AB%E3%83%AC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prajaktakale%E3%83%97%E3%83%A9%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BF%E3%82%AB%E3%83%AC width="40" height="40" /></a>
 </p>
 
 ### Languages and Tools:
